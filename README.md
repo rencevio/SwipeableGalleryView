@@ -24,6 +24,7 @@ import SwipeableCameraButton
 SwipeableGalleryView(
   imageComponents: imageResources, 
   initialIndex: 0,
+  imagePadding: 5,
   onImageSwiped: { newIndex in
     print ("Now showing image at index \(newIndex)")
   }) { imageResource in
