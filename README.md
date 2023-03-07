@@ -1,6 +1,8 @@
 # SwipeableGalleryView
 SwiftUI component for displaying a swipeable gallery of images.
 
+<img src="SwipeableGalleryViewExample/sample.gif" width="286" height="540" />
+
 
 ## Installation
 
